@@ -33,7 +33,7 @@ juan_pablo = {
 
 DrPhone nació con la visión de ser una solución tecnológica integral. No solo reparamos lo que se rompe, sino que también construimos lo que aún no existe.
 
-[![Instagram](https://img.shields.io/badge/@DRPHONE.US-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/DRPHONE.COL)
+[![Instagram](https://img.shields.io/badge/@DRPHONE.COL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/DRPHONE.COL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Pablo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-perlaza-5aa247348/)
 
 ---

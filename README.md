@@ -14,16 +14,6 @@
 
 Soy un **desarrollador junior** apasionado por la tecnología y fundador de **DrPhone** — una marca que combina reparación de dispositivos, venta de accesorios, desarrollo de apps móviles y software a medida. Construyo soluciones que conectan el mundo físico con el digital.
 
-```python
-juan_pablo = {
-    "ubicación":   "Cali, Colombia 🇨🇴",
-    "marca":       "DrPhone 📱",
-    "rol":         "Junior Developer + Founder",
-    "actualmente": "Construyendo DrPhone y aprendiendo cada día",
-    "instagram":   "@DRPHONE.US",
-    "objetivo":    "Crecer como dev y escalar DrPhone 🚀"
-}
-```
 
 ---
 

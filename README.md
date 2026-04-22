@@ -85,7 +85,7 @@ DrPhone nació con la visión de ser una solución tecnológica integral. No sol
 
 ---
 <!-- Agregar esta línea donde quieras que aparezca el GIF -->
-!<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/827eb7a9-6586-4299-941e-1c29979664b6" />
+!<img width="2005" height="1311" alt="githubgif" src="https://github.com/user-attachments/assets/827eb7a9-6586-4299-941e-1c29979664b6" />
 
 ---
 

@@ -85,10 +85,11 @@ DrPhone nació con la visión de ser una solución tecnológica integral. No sol
 
 ---
 <!-- Agregar esta línea donde quieras que aparezca el GIF -->
-![Mi GIF](./githubgif.gif)
+!<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/827eb7a9-6586-4299-941e-1c29979664b6" />
+(./githubgif.gif)
 
 <!-- O si está en una carpeta específica: -->
-![Mi GIF](./assets/githubgif.gif)
+!<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/a895f43f-602d-40b1-bda4-95c3ddc2b79a" /> (./assets/githubgif.gif)
 
 ---
 
